@@ -1,3 +1,5 @@
+![Cryptoplace](https://github.com/user-attachments/assets/ff1190a4-905e-4327-bb9d-aa0643f5247b)
+
 # Cryptoplace
 
 Cryptoplace is a web application that allows users to view the current rates of various cryptocurrencies and provides a visual chart showing the rate trends over the last 10 days.
